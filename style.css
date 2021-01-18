@@ -1,0 +1,32 @@
+.Introduction h1 {
+  color: Brown;
+  padding-left: 700px;
+}
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 27px;
+}
+.games {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.item {
+  text-align: center;
+}
+.projects {
+  color: blue;
+}
+a {
+  align-items: center;
+}
+.social {
+  display: flex;
+  justify-content: center;
+}
+.icons {
+  padding-top: 75px;
+  display: flex;
+  justify-content: center;
+}
